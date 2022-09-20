@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Roboto:ital,wght@1,100&display=swap');
+
+body {
+    background-color:rgb(98, 98, 98);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color:rgb(161, 225, 161); 
+    font-family: 'Lora', serif;
+    font-size: 2rem;
+}
+
+.main {
+    border: 2px solid grey; 
+    width: 55%; 
+    margin: 0 auto;
+}
+
+.main div {
+    width: 200px; 
+    height: 200px; 
+    border: 1px solid black; 
+    border-radius: 50%; 
+    margin: 2rem auto;"
+}
+
+#pink  {
+    border-color: palevioletred;
+}
+
+#blue {
+    border-color: lightskyblue;
+}
+
+#peach {
+    border-color: peachpuff;
+}
+
+.footer {
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+
